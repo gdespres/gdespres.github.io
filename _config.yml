@@ -19,3 +19,6 @@ github_username:  gdespres
 
 # Build settings
 markdown: kramdown
+
+gems:
+  - jemoji
